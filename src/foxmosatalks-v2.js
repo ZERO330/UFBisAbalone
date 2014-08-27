@@ -4,8 +4,7 @@
 
     var settings = $.extend({
         image: [
-          'https://images.plurk.com/23z7Ot0mFLkqvclaXURqsL.jpg',
-	  'http://i.imgur.com/SDTdQJc.png',
+          'http://i.imgur.com/SDTdQJc.png',
         ],
         height: 358, // image height
         width: 449, // image width
