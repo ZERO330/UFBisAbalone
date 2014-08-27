@@ -16,7 +16,7 @@
         popup_bgcolor: 'beige', // popup background color
         readmore_color: 'brown', // popup font color
         comein_position: 80, // show kp after scroll more than percent of page height
-        default_text: '哈囉，我是小莎！ <br /> 你知道 MozTW 現在正打算籌劃一個 <a href="https://etherpad.mozilla.org/moztw-firefox-10-year-party" target="_blank">Firefox 10 週年慶祝 Party</a> 嗎？快點來看看吧 >q<', // the words show in popup before loading done
+        default_text: '哈囉，世界！', // the words show in popup before loading done
         enter_from: 'left', // options: left, right
         enter_distance: -100 // the distance to window side
 
