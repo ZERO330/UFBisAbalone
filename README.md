@@ -1,18 +1,17 @@
-# 小莎滑出來推你坑 v1.0 
+# 幽浮爸滑出來嚇死你
 
 ## 簡介
 
-當您在的網頁中安裝了「小莎滑出來推你坑」Plugin 之後，神奇的事情發生了
-到訪者進入您的頁面、並捲動到頁面底端之後，小莎就會   滑 出 來 對 他 們 推 坑 ！  
+一個完全意義不明的網頁
 
 ## 使用範例
 
-[請點擊這裡](http://orinx.github.io/foxmosa-toldyou/)
+[請點擊這裡](http://zero330.github.io/UFBisAbalone/)
 
 
 ## 更新紀錄
 
-ver 1.0 剛從 [柯 P 滑出來對你說政見](https://github.com/goooooooogle/kp) 中 Fork 過來，什麼都還沒改 XD 
+ver 1.0 從[小莎滑出來推你入坑](https://github.com/orinx/foxmosa-toldyou)中Fork來的，剛剛開始玩，非常的不知所措(′‧ω‧‵)
 
 
 ## 授權
