@@ -4,7 +4,7 @@
 
     var settings = $.extend({
         image: [
-          'http://orinx.github.io/foxmosa-toldyou/img/foxmosa-reddino.png',
+          'https://images.plurk.com/23z7Ot0mFLkqvclaXURqsL.jpg',
 	  'http://i.imgur.com/SDTdQJc.png',
         ],
         height: 358, // image height
@@ -16,7 +16,7 @@
         popup_bgcolor: 'beige', // popup background color
         readmore_color: 'brown', // popup font color
         comein_position: 80, // show kp after scroll more than percent of page height
-        default_text: '哈囉，世界！', // the words show in popup before loading done
+        default_text: '哈囉，我是幽浮爸！  <br /> 希望你和我一樣喜歡黑肉!', // the words show in popup before loading done
         enter_from: 'left', // options: left, right
         enter_distance: -100 // the distance to window side
 
