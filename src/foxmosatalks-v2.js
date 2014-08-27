@@ -5,10 +5,10 @@
     var settings = $.extend({
         image: [
           'http://orinx.github.io/foxmosa-toldyou/img/foxmosa-reddino.png',
-	  'http://orinx.github.io/foxmosa-toldyou/img/foxmosa-gift.png',
+	  'http://i.imgur.com/SDTdQJc.png',
         ],
-        height: 342, // image height
-        width: 300, // image width
+        height: 358, // image height
+        width: 449, // image width
         effect: 'default', // options: default, fast, slow, veryslow, jump, sneaky
         popup_effect: 'fade', // options: default, fade, slide, zoom
         popup_radius: '8px', // popup radius
